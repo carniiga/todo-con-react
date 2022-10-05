@@ -1,0 +1,25 @@
+
+.App{
+  margin: auto;
+  text-align: center;
+  border: 1px solid black;
+  width: 50%;
+}
+.input{
+  margin: 10px;
+}
+.lista{
+  width: 80%;
+  margin: 50px auto 0;
+}
+.tarea{
+  font-size: 20px;
+  margin: 20px 0 15px 0;
+  display: grid;
+  grid-template-columns:3fr 1fr 1fr ;
+}
+.delete{
+  cursor: pointer;
+}
+
+
